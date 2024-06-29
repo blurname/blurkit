@@ -1,4 +1,13 @@
 // https://leetcode.cn/problems/24-game/description/
+//
+/**
+  * 1. 问题翻译：给定 4 个数字，判断通过四则运算能否获得 24 点，给出表达式
+      1. 问题1: 如何判断 24 点
+      2. 问题2: 如何给出计算表达式
+**/
+
+// my code
+
 // code from https://github.com/Lucifier129
 type SolverConfig<Expr, Output> = {
   operands: Expr[],
